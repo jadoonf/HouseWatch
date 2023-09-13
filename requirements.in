@@ -17,7 +17,7 @@ clickhouse-pool==0.5.3
 croniter==1.4.1
 cryptography>=0.9
 dj-database-url==1.0.0
-Django==4.1.1
+Django==4.1.10
 django-cors-headers==3.13.0
 django-ipware==5.0.0
 django-redis==5.2.0
